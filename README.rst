@@ -9,6 +9,16 @@ Pelican is a static site generator, written in Python_.
 * Completely static output is simple to host anywhere
 
 
+This Fork Note
+--------
+After cloning run
+
+```bash
+git submodule update --init --recursive # to clone themes and plugins ad-hoc
+```
+
+to clone recursively available Themes and Plugins (and conditionally set `THEME`, `PLUGIN_PATH`, `PLUGINS` variables in `pelicanconfig.py`.
+
 Features
 --------
 

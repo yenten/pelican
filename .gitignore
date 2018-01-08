@@ -1,3 +1,7 @@
+themes/
+plugins/
+env/
+.env/
 *.egg-info
 .*.swp
 .*.swo
