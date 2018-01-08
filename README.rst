@@ -13,7 +13,7 @@ This Fork Note
 --------
 After cloning run
 
-``git submodule update --init --recursive # to clone themes and plugins ad-hoc``
+``git submodule update --init --recursive
 
 to clone recursively available Themes and Plugins (and conditionally set
 ``THEME``, ``PLUGIN_PATH``, ``PLUGINS`` variables in ``pelicanconfig.py``.
